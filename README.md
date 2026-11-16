@@ -1,16 +1,13 @@
-## Hi there 👋
+# Franco Alvarez
 
-<!--
-**FrancoAlvarez7/FrancoAlvarez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech Lead & Project Manager** · Buenos Aires, Argentina
 
-Here are some ideas to get you started:
+Cinco años construyendo software en .NET y SQL Server en el sector salud. Lidero equipos ágiles de 3 a 7 personas y aplico IA en producto y procesos: agentes RAG y evaluación de LLMs self-hosted.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** .NET · C# · SQL Server · Blazor · TypeScript
+
+**Contacto:** [LinkedIn](https://www.linkedin.com/in/francoalvarez7/)
+
+---
+
+*Tech Lead & Project Manager with 5 years in .NET and SQL Server in healthcare. I lead agile teams of 3 to 7 people and apply AI in product and processes: RAG agents and self-hosted LLM evaluation.*
