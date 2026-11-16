@@ -4,7 +4,7 @@
 
 Cinco años construyendo software en .NET y SQL Server en el sector salud. Lidero equipos ágiles de 3 a 7 personas y aplico IA en producto y procesos: agentes RAG y evaluación de LLMs self-hosted.
 
-**Stack:** .NET · C# · SQL Server · Blazor · TypeScript
+**Stack:** .NET · C# · SQL Server · TypeScript
 
 **Contacto:** [LinkedIn](https://www.linkedin.com/in/francoalvarez7/)
 
